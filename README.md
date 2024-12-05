@@ -9,6 +9,7 @@ Welcome to the Intelligent Document Processing using Azure AI Hackathon! Today, 
 ## Introduction
 As a participant, you will delve into innovative solutions that leverage AI to streamline workflows, reduce human error, and expedite the handling of critical documents. By integrating advanced vision technologies, you will create applications that not only improve operational efficiency but also elevate the overall customer experience at Contoso Bank. 
 
+
 Prepare to unleash your creativity and technical skills as you embark on this exciting journey to shape the future of the financial services!
 
 ## Learning Objectives
